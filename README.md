@@ -22,7 +22,7 @@ A lightweight Bash script designed for Kali Linux systems that monitors CPU usag
 3. Make the script executable:
    ```bash
    chmod +x health_backup.sh
-  ./health_backup.sh
+   ./health_backup.sh
 
 ### CPU, RAM, Disk Usage Output
 ![output](https://github.com/user-attachments/assets/11b0b099-217c-4a02-8d21-f8aaf472f523)
